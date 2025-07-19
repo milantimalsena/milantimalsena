@@ -6,7 +6,7 @@
 ---
 
 ##  Skills & Expertise
-- **Programming Languages:** Java, Python, JavaScript, HTML, CSS,,telwin
+- **Programming Languages:** Java, Python, JavaScript, HTML, CSS,,Tailwind CSS
 - **Frameworks & Tools:** Javascript, React, Bootstrap, Figma, Adobe Photoshop, Illustrator
 - **Other Skills:** UI/UX Design, Branding, Visual Identity
 
