@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Milan Timalsena</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20Developer;Professional%20Graphic%20Designer;Creative%20Problem%20Solver&center=true&width=500&height=40" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Web%20Developer;Professional%20Graphic%20Designer;Creative%20Problem%20Solver&center=true&width=500&height=40" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,8 +29,7 @@
 
 ### 🎨 Design & Creativity
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,canva" />
- <p>
+
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
   <a href="https://www.canva.com/milantimalsena" target="_blank">
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge"/>
