@@ -83,16 +83,18 @@
   <br/>
    -->
    ## 📊 GitHub  Streaks
+   <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=milantimalsena&theme=tokyonight" alt="GitHub Streak"/>
+     
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milantimalsena&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
-
+<p align="center">
 ## 💬 Quote I Live By
-
-> *"Creativity is intelligence having fun."* — Albert Einstein
+<p align="center">
+<strong> "Creativity is intelligence having fun."<strong>— Albert Einstein</p>
 
 ---
 
