@@ -75,7 +75,7 @@
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats & Streaks
 
 <p align="center">
@@ -87,7 +87,7 @@
 </p>
 
 ---
-
+ -->
 ## 💬 Quote I Live By
 
 > *"Creativity is intelligence having fun."* — Albert Einstein
