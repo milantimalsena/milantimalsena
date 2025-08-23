@@ -92,7 +92,7 @@
 
 ---
 <p align="center">
-## 💬 Quote I Live By
+ <strong>💬 Quote I Live By</strong>strong
 <p align="center">
 <strong> "Creativity is intelligence having fun."<strong>— Albert Einstein</p>
 
