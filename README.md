@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ---
@@ -26,7 +25,7 @@
 
 ### 💻 Programming & Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tailwind,react" />
 </p>
 
 ### 🎨 Design & Creativity
@@ -75,24 +74,21 @@
 </p>
 
 ---
-<!--
+
 ## 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milantimalsena&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br/>
-   -->
-   ## 📊 GitHub  Streaks
-  
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milantimalsena&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
+
 <p align="center">
- <strong>💬 Quote I Live By</strong>strong
+ <strong>💬 Quote I Live By</strong>
+</p>
 <p align="center">
-<strong> "Creativity is intelligence having fun."<strong>— Albert Einstein</p>
+  <strong>"Creativity is intelligence having fun."</strong> — Albert Einstein
+</p>
 
 ---
 
