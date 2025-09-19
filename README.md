@@ -73,13 +73,9 @@
   <a href="https://www.instagram.com/me__learn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
----
 
-## 📊 GitHub Stats & Streaks
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milantimalsena&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+
 
 ---
 
