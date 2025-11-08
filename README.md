@@ -17,7 +17,6 @@
 ## 👨‍💻 About Me
 
 🎓 I'm currently pursuing a **BSc (Hons) in Computing** at **Itahari International College**, affiliated with **London Metropolitan University**.  
-💡 A passionate **Full-Stack Web Developer** and **Creative Graphic Designer** with a flair for building user-centric digital solutions.  
 🚀 Dedicated to continuous growth, hands-on learning, and staying at the forefront of modern technologies.  
 🧠 Known for merging technical skill with creative design to craft high-impact visuals and functional web experiences.
 
