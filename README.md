@@ -1,92 +1,25 @@
-<h1 align="center">👋 Hi there, I'm Milan Timalsena</h1>
-
+<!-- HEADER BANNER -->
 <p align="center">
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Milan%20Timalsena&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Graphic%20Designer%20|%20AI%20Explorer&descAlignY=55"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>  
- 
- 
-</p>
-
----
-
-## 👨‍💻 About Me
-
-🎓 I'm currently pursuing a **BSc (Hons) in Computing** at **Itahari International College**, affiliated with **London Metropolitan University**.  
-🚀 Dedicated to continuous growth, hands-on learning, and staying at the forefront of modern technologies.  
-🧠 Known for merging technical skill with creative design to craft high-impact visuals and functional web experiences.
-
----
-
-## 🚀 Skills & Tools
-
-### 💻 Programming & Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tailwind,react" />
-</p>
-
-### 🎨 Design & Creativity
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
-  <a href="https://www.canva.com/milantimalsena" target="_blank">
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge"/>
-  </a>
-</p>
-
----
-
-## 💼 Professional Experience
-
-- 🧑‍💼 Worked with **50+ clients** worldwide, delivering brand-defining graphics and custom websites.
-- 🛠️ Experienced in **freelance development**, project management, and collaborative teamwork.
-- 🤖 Actively exploring AI-powered tools and automation to enhance design and development workflows.
-
----
-
-## 🏆 Achievements
-
-- 🏁 **State-level Robo Race** – Team Leader and Participant  
-- 🏅 Winner of **Outstanding Project Presentation**  
-- 🏆 Recognized by local businesses for **Innovative Design Solutions**  
-- 🌟 Successfully transitioned client ideas into engaging products with real-world impact
-
----
-
-## 🌐 Hobbies & Interests
-
-- ⚽ Football Enthusiast & Weekend Player  
-- 🎧 Music Lover – from lo-fi coding beats to classic rock  
-- 🌍 Passionate about travel, cultures, and trying new cuisines  
-- 📚 Lifelong learner – always exploring new tech, trends & tools  
-
----
-
-## 🤝 Let's Connect!
-
-<p>
-  <a href="mailto:milantimalsena87@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.facebook.com/milan.timalsena10"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/milan-timalsena-373782353/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/me__learn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
-
-
-
 
 ---
 
 <p align="center">
- <strong>💬 Quote I Live By</strong>
+BSc (Hons) Computing Student • Full-Stack Developer • Graphic Designer
 </p>
+
 <p align="center">
-  <strong>"Creativity is intelligence having fun."</strong> — Albert Einstein
+Java | Python | JavaScript | React | Tailwind | UI/UX || exploring flutter
 </p>
 
 ---
 
-<p align="center"><i>“Building solutions, designing experiences, and always learning.”</i></p>
+> “Creativity is intelligence having fun.”  
+> — Albert Einstein
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=milantimalsena&color=blue&style=for-the-badge"/>
+</p>
