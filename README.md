@@ -1,25 +1,77 @@
-<!-- HEADER BANNER -->
+<!-- 3D Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Milan%20Timalsena&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Graphic%20Designer%20|%20AI%20Explorer&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:928DAB,100:1f1c2c&height=220&section=header&text=Milan%20Timalsena&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Graphic%20Designer%20|%20AI%20Explorer&descAlignY=55"/>
 </p>
 
 ---
 
-<p align="center">
-BSc (Hons) Computing Student • Full-Stack Developer • Graphic Designer
-</p>
+# 👋 Hello World, I'm Milan
 
 <p align="center">
-Java | Python | JavaScript | React | Tailwind | UI/UX || exploring flutter
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Professional+Graphic+Designer;AI+Explorer;BSc+Computing+Student"/>
 </p>
 
 ---
 
-> “Creativity is intelligence having fun.”  
+# 🧑‍💻 Coding Animation
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+---
+
+# 🧠 Tech Stack
+
+### 💻 Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,tailwind,bootstrap"/>
+</p>
+
+### 🎨 Design
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+---
+
+
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:milantimalsena87@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/milan.timalsena10">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://github.com/milantimalsena">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# ✨ Quote
+
+> "Creativity is intelligence having fun."  
 > — Albert Einstein
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=milantimalsena&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=milantimalsena&style=for-the-badge&color=blue"/>
 </p>
