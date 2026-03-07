@@ -25,7 +25,7 @@
 
 ### 💻 Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,tailwind,flutter"/>
 </p>
 
 ### 🎨 Design
