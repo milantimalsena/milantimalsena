@@ -13,7 +13,6 @@
 
 ---
 
-# 🧑‍💻 Coding Animation
 
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
@@ -21,14 +20,13 @@
 
 ---
 
-# 🧠 Tech Stack
 
-### 💻 Development
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,tailwind,flutter"/>
 </p>
 
-### 🎨 Design
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
@@ -45,7 +43,7 @@
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -65,7 +63,7 @@
 
 ---
 
-# ✨ Quote
+#  Quote
 
 > "Creativity is intelligence having fun."  
 > — Albert Einstein
