@@ -11,14 +11,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Professional+Graphic+Designer;AI+Explorer;BSc+Computing+Student"/>
 </p>
 
----
 
-
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
-
----
 
 
 
